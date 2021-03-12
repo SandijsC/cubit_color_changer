@@ -5,7 +5,7 @@ on:
       - main
       - dev
 jobs:
-  flutter_tests:
+  flutter_test:
     name: Run Flutter test and analyse
     runs-on: ubuntu_latest
     steps:
